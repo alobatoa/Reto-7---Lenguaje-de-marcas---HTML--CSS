@@ -1,0 +1,33 @@
+
+
+h1{
+    text-align: center;
+}
+
+
+table {
+  
+
+    border: 8px solid black;
+    border-collapse: collapse;
+    width: 200px; 
+    background-color: rgb(119, 190, 248);
+    text-align: center;
+     margin: 0 auto;
+
+ 
+}
+
+th, td {
+    border: 5px solid rgb(229, 246, 163);
+    padding: 10px;
+    width: 120px;  
+    height: 40px;   
+}
+th {
+    text-transform: uppercase;
+}
+ 
+
+
+
